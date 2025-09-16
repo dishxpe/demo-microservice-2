@@ -3,7 +3,7 @@ package com.dishxpe.svcuser.model.user;
 import com.dishxpe.svcuser.model.role.Role;
 import jakarta.persistence.*;
 import lombok.*;
-import org.antlr.v4.runtime.misc.NotNull;
+
 
 import java.time.Instant;
 
